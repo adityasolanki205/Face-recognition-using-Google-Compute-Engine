@@ -40,4 +40,4 @@ tensorflow-datasets==3.1.0
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.8.0
 tensorflow-metadata==0.22.0
-urllib3==1.25.8
+urllib3==1.26.5
