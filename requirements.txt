@@ -7,7 +7,7 @@ google-pasta==0.2.0
 googleapis-common-protos==1.51.0
 h5py==2.10.0
 ipykernel==5.1.4
-ipython==7.13.0
+ipython==7.16.3
 joblib==0.14.1
 json5==0.9.4
 jsonschema==3.2.0
