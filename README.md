@@ -47,7 +47,7 @@ create a firewall rule to let port 5000 access Compute instance. To do that go t
 4. **Deploying the App on Compute Engine**: After creating the instance, we will deploy the code on the instance using SSH. So click on the SSH button to create a session to deploy our code.
 
 ```bash
-    # update system packages and install the required packages
+    # update system packages and install all the required packages
     sudo apt-get update
     sudo apt-get install bzip2 libxml2-dev libsm6 libxrender1 libfontconfig1
     
